@@ -42,10 +42,11 @@ In my free time, I enjoy:
 
 ### 🛠️ Backend Technologies
 
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Deno Badge](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=white)
+![Bun.sh Badge](https://img.shields.io/badge/-Bun-%23f7eeda?style=flat&logo=bun&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Bun.sh Badge](https://img.shields.io/badge/-Bun-%23f7eeda?style=flat&logo=bun&logoColor=black)
-![Deno Badge](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=white)
 
 ### 🗄️ Databases
 
