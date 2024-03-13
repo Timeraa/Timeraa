@@ -2,6 +2,8 @@
 
 ## 📖 My Story
 
+<img src=".github/assets/Timeraa.png" align="right" width="200">
+
 I'm a 22-year-old DevOps developer based in Germany, and my journey into the world of software development has been a fascinating one. It all began when I was just a child, captivated by Minecraft plugins, which slowly but surely introduced me to Java (though I have since explored other paths).
 
 My career gradually gained momentum as I delved into creating Discord bots, which steered me further in the direction of JavaScript and Node.js. However, my career truly took off when I had the captivating idea to create [PreMiD](https://premid.app), a small utility with more than half a million active users. PreMiD allows users to display their online activities, such as the Netflix shows they are watching, on their Discord profiles. This project marked a significant turning point and kickstarted my journey in the world of software development.
