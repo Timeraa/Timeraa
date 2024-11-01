@@ -1,32 +1,34 @@
-# Hi, I'm Florian Metz 👋
+# 🦄 Hi, I'm Florian Metz (aka Timeraa)! 👋
 
 ## 📖 My Story
 
 <img src=".github/assets/Timeraa.png" align="right" width="200">
 
-I'm a 22-year-old DevOps developer based in Germany, and my journey into the world of software development has been a fascinating one. It all began when I was just a child, captivated by Minecraft plugins, which slowly but surely introduced me to Java (though I have since explored other paths).
+Greetings, fellow adventurers! I'm a 22-year-old DevOps developer from Germany, soaring through the clouds of code like a Pegasus on a mission. 🦄 My journey into the magical world of software development began when I was just a young colt, tinkering with Minecraft plugins and dipping my hooves into Java (though I've since galloped across various programming pastures).
 
-My career gradually gained momentum as I delved into creating Discord bots, which steered me further in the direction of JavaScript and Node.js. However, my career truly took off when I had the captivating idea to create [PreMiD](https://premid.app), a small utility with more than half a million active users. PreMiD allows users to display their online activities, such as the Netflix shows they are watching, on their Discord profiles. This project marked a significant turning point and kickstarted my journey in the world of software development.
+As I spread my wings, I ventured into creating Discord bots, which lured me deeper into the enchanted forests of JavaScript and Node.js. But my true ascent into the stratosphere started when I conjured up [PreMiD](https://premid.app), a nifty little utility now cherished by over half a million active users! PreMiD lets you display your online escapades—like binge-watching Netflix shows—right on your Discord profile. This project didn't just launch me into new horizons; it also taught me to navigate the winds of frontend and backend development, infrastructure management, and the ever-changing weather of best practices.
 
-PreMiD not only introduced me to the world of frontend and backend development but also provided valuable experience in infrastructure management. It taught me many principles and best practices in software engineering. However, along the way, it also presented numerous challenges that I had to face, pushing me to continuously learn and grow as a developer.
+## 🎓 Certifications
+
+- 🏅 **Certified Mid-Level Vue.js Developer:** Proudly certified in Vue.js, crafting reactive and dynamic interfaces is my forte! [View Certificate](https://certificates.dev/c/9cc53f9a-64f2-4920-b773-8a08a684a7d5)
 
 ## 🌟 Hobbies
 
-In my free time, I enjoy:
+When I'm not coding up a storm, you might find me:
 
-- 🎶 Listening to music from various genres; it's my way of relaxing and finding inspiration.
-- 🎮 Playing video games to challenge my strategic thinking and immerse myself in exciting virtual worlds.
-- 🏞️ Exploring the great outdoors through hiking, connecting with nature, and taking on various scenic trails.
-- 🎢 Experiencing the thrill of theme parks and roller coasters, creating lasting memories in the world of fun and excitement.
-- 🎬 Watching animated shows and movies from Disney and other animation studios, where creativity and storytelling shine.
+- 🎶 **Jamming to Music:** From epic soundtracks to indie beats, music helps this Pegasus find his rhythm.
+- 🎮 **Gaming Adventures:** Exploring virtual worlds and embarking on quests that challenge my strategic thinking.
+- 🏞️ **Hiking Trails:** Stretching my legs (and wings) in the great outdoors, conquering scenic trails.
+- 🎢 **Thrill Seeker:** Riding roller coasters and embracing the adrenaline rush—who needs wings when you have gravity-defying rides?
+- 🎬 **Animated Escapades:** Diving into the creative realms of Disney and other animation studios where storytelling truly takes flight.
 
 ## 🚀 What I Do
 
-- 🔧 I currently work at [AutoflexBV](https://github.com/AutoflexBV), gaining valuable experience in the world of software development and DevOps.
+- 🔧 **Code Craftsman at [AutoflexBV](https://github.com/AutoflexBV):** Gaining altitude in the realms of software development and DevOps.
 
-- 💼 I'm one of the founders and a CEO of [Recodive oHG](https://recodive.com/), a company passionately dedicated to reinventing the wheel in the world of software, pushing the boundaries of innovation and excellence.
+- 💼 **Co-founder & CEO at [Recodive oHG](https://recodive.com/):** We're passionately reinventing the wheel (because who says a Pegasus can't improve it?), pushing the boundaries of innovation and excellence.
 
-## 💼 Technologies/Experiences
+## 💻 Technologies & Experiences
 
 ### 🔧 Programming Languages
 
@@ -55,42 +57,43 @@ In my free time, I enjoy:
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ Badge](https://img.shields.io/badge/-RabbitMQ-fc6404?style=flat&logo=rabbitmq&logoColor=white)
 
-### General
+### 🌐 General
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-## 💼 Skills
+## 🛠️ Skills
 
-- **Microservicing:** Actively exploring microservices architecture, understanding its principles, and applying them to build scalable and modular applications.
+- **Microservices Maestro:** Orchestrating microservices architectures to build scalable, modular applications that soar.
 
-- **Containerizing:** Proficient in containerization techniques, using Docker to package and distribute applications along with their dependencies.
+- **Container Connoisseur:** Expert in containerization with Docker, packaging applications and their dependencies into neat little bundles.
 
-- **Orchestration:** Experience with container orchestration tools like Kubernetes, ensuring efficient deployment, scaling, and management of containerized applications.
+- **Orchestration Wizard:** Harnessing Kubernetes to deploy, scale, and manage containerized apps like a pro.
 
-- **Linux Server Management:** Skilled in Linux server management, particularly with Ubuntu, enabling reliable and secure hosting environments for various applications and services.
+- **Linux Luminary:** Commanding Linux servers (Ubuntu FTW!) to ensure reliable and secure hosting environments.
 
-- **Web Frameworks:** Proficient in web development using Vue.js and Nuxt.js to create elegant and efficient front-end interfaces.
+- **Frontend Fanatic:** Crafting elegant interfaces with Vue.js and Nuxt.js that are as sleek as a Pegasus in flight.
 
-- **Database Expertise:** Experienced with various databases, including MongoDB, PostgreSQL, and Redis used as a caching layer, for data storage and retrieval.
+- **Database Dynamo:** Wrangling data with MongoDB, PostgreSQL, and Redis (for that caching magic).
 
-- **Message Brokers:** Familiar with message broker systems like RabbitMQ, enabling efficient communication between microservices.
+- **Message Broker Magician:** Making microservices communicate efficiently with RabbitMQ.
 
-- **Project Management:** Utilize Jira for effective project management, ensuring seamless collaboration and task tracking.
+- **Project Management Pro:** Keeping projects on track with Jira, ensuring the journey is as smooth as gliding through clouds.
 
 ## 📫 Let's Connect
 
-- 💬 Feel free to reach out to me if you want to discuss DevOps, software development, or just have a friendly chat.
-- 📧 You can email me at [me@timeraa.dev](mailto:me@timeraa.dev).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/Timeraa) for professional networking.
-- 💬 You can also find me on Discord as **Timeraa**.
+- 💬 **Reach Out:** Saddle up and drop me a message if you want to talk DevOps, software development, or share mythical tales!
+- 📧 **Email:** [me@timeraa.dev](mailto:me@timeraa.dev)
+- 🔗 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/Timeraa) for professional networking.
+- 💬 **Discord:** Find me as **Timeraa**.
 
-## 🚀 Wrapping It Up
+## ✨ Wrapping It Up
 
-Thanks for swinging by my GitHub profile! 🚀 If you liked my code, give it a star ⭐️; if not, blame the bugs, not me! 😄
+Thanks for fluttering by my GitHub profile! 🚀 If you like my code, give it a star ⭐️; if not, well, even Pegasi have off days! 😄
 
-By the way, a friendly AI might have helped me come up with these witty words because, let's face it, intros are not my strong suit. Thanks for understanding! 🤖✨
+_P.S. A friendly AI might have sprinkled some magic dust on these words because, let's be honest, writing intros isn't my natural habitat. Thanks for understanding!_ 🤖🦄✨
