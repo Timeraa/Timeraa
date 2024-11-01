@@ -24,7 +24,7 @@ When I'm not coding up a storm, you might find me:
 
 ## 🚀 What I Do
 
-- 🔧 **Code Craftsman at [AutoflexBV](https://github.com/AutoflexBV):** Gaining altitude in the realms of software development and DevOps.
+- 🔧 **DevOps & Medior Developer at [AutoflexBV](https://github.com/AutoflexBV):** Gaining altitude in the realms of software development and DevOps.
 
 - 💼 **Co-founder & CEO at [Recodive oHG](https://recodive.com/):** We're passionately reinventing the wheel (because who says a Pegasus can't improve it?), pushing the boundaries of innovation and excellence.
 
