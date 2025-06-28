@@ -4,7 +4,7 @@
 
 <img src=".github/assets/Timeraa.png" align="right" width="200">
 
-Greetings, fellow adventurers! I'm a 22-year-old DevOps developer from Germany, soaring through the clouds of code like a Pegasus on a mission. 🦄 My journey into the magical world of software development began when I was just a young colt, tinkering with Minecraft plugins and dipping my hooves into Java (though I've since galloped across various programming pastures).
+Greetings, fellow adventurers! I'm a 23-year-old DevOps developer from Germany, soaring through the clouds of code like a Pegasus on a mission. 🦄 My journey into the magical world of software development began when I was just a young colt, tinkering with Minecraft plugins and dipping my hooves into Java (though I've since galloped across various programming pastures).
 
 As I spread my wings, I ventured into creating Discord bots, which lured me deeper into the enchanted forests of JavaScript and Node.js. But my true ascent into the stratosphere started when I conjured up [PreMiD](https://premid.app), a nifty little utility now cherished by over half a million active users! PreMiD lets you display your online escapades—like binge-watching Netflix shows—right on your Discord profile. This project didn't just launch me into new horizons; it also taught me to navigate the winds of frontend and backend development, infrastructure management, and the ever-changing weather of best practices.
 
